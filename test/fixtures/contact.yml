@@ -1,0 +1,9 @@
+aaron:
+  firstname: "Aaron"
+  lastname:  "Sumner"
+  email:     "aaron@everydayrails.com"
+
+john:
+  firstname: "John"
+  lastname:  "Doe"
+  email:     "johndoe@nobody.org"
